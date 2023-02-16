@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Entitys/Guest.cs">
+    <Files>
+      <File FileName="../../../Downloads/LoadQuests.cs" Line="17" Column="30" />
+      <File FileName="../../../Downloads/FilmClass.cs" />
+      <File FileName="Assets/Scripts/Entitys/Film.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/Entitys/Guest.cs" Line="35" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pultus-kiosk" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

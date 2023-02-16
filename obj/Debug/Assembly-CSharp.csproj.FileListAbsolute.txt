@@ -1,0 +1,2 @@
+/Users/nikolay/trunks/UnityProjects/pultus-kiosk/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/nikolay/trunks/UnityProjects/pultus-kiosk/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
